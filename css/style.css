@@ -256,6 +256,8 @@ Parallax
 #parallax2{
 	background-image: url(../img/Medina_Map_3.png);
 	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
 }
 
 
