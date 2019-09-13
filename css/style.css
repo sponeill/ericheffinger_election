@@ -889,3 +889,13 @@ more media queries
 		font-size: 70px;
 	}
 }
+
+
+.carousel-background {
+	
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center center;
+}
+
